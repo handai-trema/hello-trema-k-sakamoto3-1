@@ -19,4 +19,4 @@ switch_disconnected()は仮想スイッチが切断された時に呼び出さ�
 
 ## リンク
 以下に課題ファイルへのリンクを載せる。
-* [hello_trema.rb]{https://github.com/handai-trema/hello-trema-k-sakamoto3-1/blob/master/lib/hello_trema.rb}
+* [hello_trema.rb](https://github.com/handai-trema/hello-trema-k-sakamoto3-1/blob/master/lib/hello_trema.rb)
